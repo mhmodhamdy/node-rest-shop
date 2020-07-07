@@ -1,0 +1,32 @@
+{
+  "name": "rest-shop",
+  "version": "1.0.0",
+  "description": "A Node.js RESTful API Tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "restful",
+    "api"
+  ],
+  "author": "Mahmoud F\u001b[\u001b[C\u001b[Caheem",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.3.1",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.20",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "winston": "^3.3.3",
+    "winston-mongodb": "^5.0.1"
+  }
+}
